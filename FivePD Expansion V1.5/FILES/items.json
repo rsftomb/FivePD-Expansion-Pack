@@ -1,0 +1,375 @@
+[
+	{
+		"name": "pen",
+		"isIllegal": false,
+		"multiplier": 10,
+		"itemLocation": 2
+	},
+	{
+		"name": "phone",
+		"isIllegal": false,
+		"multiplier": 20,
+		"itemLocation": 1
+	},
+	{
+		"name": "notebook",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 0
+	},
+	{
+		"name": "small bag of weed",
+		"isIllegal": true,
+		"multiplier": 2,
+		"itemLocation": 0
+	},
+	{
+		"name": "concealed firearm",
+		"isIllegal": false,
+		"multiplier": 1,
+		"itemLocation": 1
+	},
+	{
+		"name": "Insurance Paperwork",
+		"isIllegal": false,
+		"multiplier": 20,
+		"itemLocation": 0
+	},
+	{
+		"name": "coin change",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 2
+	},
+	{
+		"name": "used needle",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "a showe",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 2
+	},
+	{
+		"name": "bag of meth",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "fake ID",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "marijuana",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "watch",
+		"isIllegal": false,
+		"multiplier": 20,
+		"itemLocation": 1
+	},
+	{
+		"name": "ID card",
+		"isIllegal": false,
+		"multiplier": 20,
+		"itemLocation": 1
+	},
+	{
+		"name": "wallet",
+		"isIllegal": false,
+		"multiplier": 10,
+		"itemLocation": 2
+	},
+	{
+		"name": "a bong",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "a briefcase full of heroin",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "a briefcase full of methemphetemine",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "a brick of cocaine(kilo)",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "individual baggies of marijuana",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "a bag of psychedelic mushrooms",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "a foil wrapper with fentanyl in it",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "several pounds of heroin",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "a pair of nunchucks",
+		"isIllegal": false,
+		"multiplier": 2,
+		"itemLocation": 2
+	},
+	{
+		"name": "several pounds of methemphetemine",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "a silencer",
+		"isIllegal": true,
+		"multiplier": 2,
+		"itemLocation": 2
+	},
+	{
+		"name": "an IED(homemade bomb)",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "an AR-15 rifle",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 0
+	},
+	{
+		"name": "wire cutters",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 2
+	},
+	{
+		"name": "several cellphones",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 2
+	},
+	{
+		"name": "several cans of spraypaint",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 0
+	},
+	{
+		"name": "glass cutting equiptment",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 0
+	},
+	{
+		"name": "several rounds of ammunition",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 2
+	},
+	{
+		"name": "a bag of fertilizer",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 0
+	},
+	{
+		"name": "a duffel bag full of money",
+		"isIllegal": false,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "a briefcase full of $100 bills",
+		"isIllegal": false,
+		"multiplier": 2,
+		"itemLocation": 0
+	},
+	{
+		"name": "a clown mask",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 2
+	},
+	{
+		"name": "a clown outfit",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 0
+	},
+	{
+		"name": "a large blood stain",
+		"isIllegal": false,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "a backpack full of money",
+		"isIllegal": false,
+		"multiplier": 2,
+		"itemLocation": 0
+	},
+	{
+		"name": "a bottle of pills w/no label",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "a bottle of pills w/correct label",
+		"isIllegal": false,
+		"multiplier": 4,
+		"itemLocation": 2
+	},
+	{
+		"name": "a crossbow",
+		"isIllegal": false,
+		"multiplier": 2,
+		"itemLocation": 0
+	},
+	{
+		"name": "a kitchen knife",
+		"isIllegal": false,
+		"multiplier": 2,
+		"itemLocation": 2
+	},
+	{
+		"name": "a chainsaw",
+		"isIllegal": false,
+		"multiplier": 2,
+		"itemLocation": 2
+	},
+	{
+		"name": "an axe",
+		"isIllegal": false,
+		"multiplier": 2,
+		"itemLocation": 0
+	},
+	{
+		"name": "a crowbar",
+		"isIllegal": false,
+		"multiplier": 2,
+		"itemLocation": 0
+	},
+	{
+		"name": "a sword",
+		"isIllegal": false,
+		"multiplier": 2,
+		"itemLocation": 0
+	},
+	{
+		"name": "a brass knuckles",
+		"isIllegal": false,
+		"multiplier": 2,
+		"itemLocation": 2
+	},
+	{
+		"name": "baseball bat",
+		"isIllegal": false,
+		"multiplier": 2,
+		"itemLocation": 0
+	},
+	{
+		"name": "a machete",
+		"isIllegal": false,
+		"multiplier": 2,
+		"itemLocation": 0
+	},
+	{
+		"name": "a can of pepper spray",
+		"isIllegal": false,
+		"multiplier": 2,
+		"itemLocation": 2
+	},
+	{
+		"name": "a taser",
+		"isIllegal": false,
+		"multiplier": 2,
+		"itemLocation": 2
+	},
+	{
+		"name": "random pills in a baggy",
+		"isIllegal": true,
+		"multiplier": 2,
+		"itemLocation": 2
+	},
+	{
+		"name": "small vial of clear liquid.",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "numerous baggies of white powder.",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},	{
+		"name": "a scale with white powder residue.",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},	{
+		"name": "small vial of clear liquid.",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},	{
+		"name": "small vial of clear liquid.",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},	{
+		"name": "small vial of clear liquid.",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},	{
+		"name": "small vial of clear liquid.",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "a hammer",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 0
+	},
+	{
+		"name": "hockey sticks",
+		"isIllegal": true,
+		"multiplier": 2,
+		"itemLocation": 0
+	}
+]

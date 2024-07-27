@@ -1,0 +1,247 @@
+[
+	{
+		"title": "Normal questions",
+		"questions": [
+			{
+				"question": "Hello, How are you?",
+				"answers": ["Good, you?.", "Fine until you got here, pig", "Leave me alone", "Uh, Ok I guess.","What do you want?", "I dont answer questions."]
+			},
+			{
+				"question": "I'm ****, do you have an ID on you?",
+				"answers": ["Why?", "I didnt do anything wrong, I know my rights!", "Leave me alone, tyrant pig!", "Here. *hands ID*", "I don't have it on me right now."]
+			},
+			{
+				"question": "So, Whats going on today?",
+				"answers": ["Nothing, leave me alone.", "I didn't call you.","*remains silent*", "I dont answer questions", "I know my rights.", "Piss off, pig.", "Nothing, I'm just hanging out."]
+			},
+			{
+				"question": "Do you have any weapons on you?",
+				"answers": ["Just these guns right here. *flexes arms*", "Just the handgun in my waistband.","*remains silent*", "I dont answer questions", "I know my rights.", "Piss off, pig.", "No"]
+			},
+			{
+				"question": "Have you ever been arrested before?",
+				"answers": ["No, Never.", "Yeah, for some stupid shit.","No.", "I think so but it was a long time ago.", "No.", "Piss off, pig.", "Nothing, I'm just hanging out."]
+			},
+			{
+				"question": "Where are you heading to?",
+				"answers": ["I'm going home.", "Home", "That way.", "To work", "Probably with you once you run my license", " I don't answer quesitons"]
+			}
+		]
+	},
+	{
+		"title": "Search Questions",
+		"questions": [
+			{
+				"question": "Do you have anything on you I need to know about?",
+				"answers": ["Find out for yourself you tyrant fuck.", "No but I'm sure you're going to have a fun time checking, pig!", "Not on ME.", "Uh, Ok I guess.","No, I aint got shit bruh.", "No.", "No."]
+			},
+			{
+				"question": "Is there anything in the vehicle I should know about?",
+				"answers": ["I dont consent!", "I didnt do anything wrong, I know my rights!", "Its not my car, you cant search it!", "Theres nothing in there, I swear!", "Go ahead and check, you're going to anyway."]
+			},
+			{
+				"question": "May I search the vehicle?",
+				"answers": ["Sure, go ahead.", "Its not my car, No.","*remains silent*", "I dont answer questions", "I know my rights.", "Go ahead.", "Yeah, I guess."]
+			},
+			{
+				"question": "What are you running for?",
+				"answers": ["My license is suspended.", "Cuz you're chasing me.","*remains silent*", "I think I got a warrant.","I dont answer questions", "cuz you the police!", "I was scared!, yall like to beat people!."]
+			},
+			{
+				"question": "Im gonna pat you down for my safety.",
+				"answers": ["Ok. *Finds nothing*.", "Ok *feels what could be a weapon*", "Ok *gets nervous and pulls away*.", "I dont consent.", "This is fucked, I know my rights!"]
+			}
+		]
+	},
+	{
+		"title": "Traffic Stop Questions",
+		"questions": [
+			{
+				"question": "Hello sir/ma'am. Do you know why I pulled you over?",
+				"answers": ["Because I let you", "No, but Im sure you're going to tell me.", "No", "To extort money from me", "Because you can smell the donuts.", "Because I was going a little too fast."]
+			},
+			{
+				"question": "Do you know how fast you were going?",
+				"answers": ["Exactly the speed limit", "I wasn't going THAT fast", "I was doing like 5mph over, so what?", "Uh, like 45mph?.", "I don't know.", "No, But you're going to tell me.","Too busy looking at the road."]
+			},
+			{
+				"question": "Hello sir/ma'am. May I have your license, registration and Insurance please",
+				"answers": ["Just a second", "Fine", "What did I do?", "I didn't do anything wrong.", "I don't have my License on me.", "Here you go."]
+			},
+			{
+				"question": "Are you aware your license is suspended/revoked?",
+				"answers": ["No way, thats a lie!", "It cant be.","You've gotta be kidding me.", "I just got it taken care of.", "No.", "Yeah but I have to drive to work?", "This is bullshit.", "Im just headed to the store."]
+			},
+			{
+				"question": "Do you know the registration is expired?",
+				"answers": ["I just paid it, thats impossible.", "No Its not.", "Its not my car.", "Honestly I didn't, Im sorry", "Ugh", "You're a tyrant, you know that?.", "Do you not have anything better to do?"]
+			},
+			{
+				"question": "Do you know the insurance is invalid?",
+				"answers": ["I just paid it, thats impossible.", "No Its not.", "Its not my car.", "Honestly I didn't, Im sorry", "Ugh", "You're a tyrant, you know that?.", "Do you not have anything better to do?"]
+			},
+			{
+				"question": "Is this your vehicle?",
+				"answers": ["Yes.", "Yup", "I dont answer questions", "Yeah, why?.", "Ugh", "No, Its my friends."]
+			},
+			{
+				"question": "Where did you get this vehicle?",
+				"answers": ["Its a rental..", "A friend lent it to me.", "I dont answer questions", "I dunno.", "Ugh", "I stole that shit."]
+			},
+			{
+				"question": "What are you doing driving like that?",
+				"answers": ["My wifes having a baby!", "I forgot my glasses!", "I dont answer questions", "The fuck you mean?", "I just bought the car, trying to have some fun.", "Why are YOU driving like that?"]
+			},
+			{
+				"question": "Why are you driving so fast?",
+				"answers": ["Because I felt like it.", "I got the need, the need for speed!", "Sorry man, I just watched TopGun.", "I wasn't going THAT fast.", "What authority do you have?", "Because I didn't see you."]
+			},
+			{
+				"question": "What do you keep reaching around for? Step out!",
+				"answers": ["Nothing, Im just trying to find my....", "No! I know my rights", "*steps out*", "I dropped my phone.", "*looks around nervously*", "N n n nothing."]
+			},
+			{
+				"question": "Why are you acting so nervous?",
+				"answers": ["Police make me nervous, look at the damn news.", "Im not nervous.", "*remains silent*", "I dunno.", "Im not.", "I dont like yall, thats why.."]
+			},
+			{
+				"question": "You ran a stop sign, any particular reason for that?",
+				"answers": ["What stop sign?", "I didnt see a stop sign.", "I just rolled it, whats the big deal.","Theres no stop sign, what do you mean?", "I wasn't paying attention, Sorry."]
+			}
+		]
+	},
+	{
+		"title": "OVI / Narcotics Questions",
+		"questions": [
+			{
+				"question": "Have you had anything to drink today?",
+				"answers": ["I don't drink", "No.", "No", "Yeah, a while ago.", "Nope, dont drink.", "Nah dude, I dont drink."]
+			},
+			{
+				"question": "Have you taken anything today? Narcotics or Rx?",
+				"answers": ["I took xanax", "No.", "No", "Just Zoloft.", "No Sir.", "I smoked some weed earlier."]
+			},
+			{
+				"question": "How long ago?",
+				"answers": ["Like a hour ago.", "Two hours ago", "No", "Last night.", "This morning.", "I don't know, a few hours ago."]
+			},
+			{
+				"question": "Do you have anything in the vehicle you shouldn't?",
+				"answers": ["No", "A little bit of weed.", "No, I mean.. Like.. No", "Its not my car, I dont know whats in it.", "Really? You dont have anything better to do?", "No"]
+			},
+			{
+				"question": "Are you willing to perform FSTs?",
+				"answers": ["No", "I want to call my lawyer, NOW!", "No, I mean.. Like.. No", "What if I dont't", "I can't even do those when Im sober.", "No"]
+			},
+			{
+				"question": "Perform: Walk and Turn Test",
+				"answers": ["Pass", "Pass", "Stumbles", "Takes too many steps", "Starts test before instructed", "Pass", "Pass", "Pass"]
+			},
+			{
+				"question": "Perform: One Legged Stand",
+				"answers": ["Pass", "Pass", "Stumbles", "Loses balance", "Starts test before instructed", "Pass", "Pass", "Pass"]
+			},
+			{
+				"question": "Perform: HGN(Pen Test)",
+				"answers": ["Pass", "Pass", "Eyes twitchy", "Eyes red & glossy", "Jerky Eyes", "Pass", "Pass", "Pass"]
+			},
+			{
+				"question": "How much did you really drink tonight?",
+				"answers": [" slurs words, I oooont hed lik toooo drink", "I told you, I had like one..", "I dont answer questions", "*slurs words* I dont member"]
+			}
+		]
+	},
+	{
+		"title": "Orders",
+		"questions": [
+			{
+				"question": "Turn the vehicle off please",
+				"answers": ["Yes sir.", "No, why?.", "Why?", "There dude, Calm down.", "I know my rights.", "What did I do wrong", "This is bullshit"]
+			},
+			{
+				"question": "Roll down your window please",
+				"answers": ["rolls down window*", "*cracks window 1 inch", "What authority do you have?", "rolls down window.", "I know my rights.", "rolls down window", "its down far enough."]
+			},
+			{
+				"question": "Step out of your vehicle please",
+				"answers": ["What did I do?", "Ped Steps Out", "What did I do?", "This is abuse of power, bullshit." , "Why??"]
+			},
+			{
+				"question": "May I have your registration and insurance please",
+				"answers": ["Im not giving you anything, I did nothing wrong.", "Yes sir. Just a moment.", ]
+			}
+		]
+		
+	},
+	{
+		"title": "MCE/Vehicle Inspection",
+		"questions": [
+			{
+				"question": "Are the drivers logbook in order?",
+				"answers": ["Yes", "Yes.", "Yes.", "Yes", "Driver has no logs.", "Logs overtime.", "Yes."]
+			},
+			{
+				"question": "Does the driver have a CDL?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes." , "Yes", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "Is the vehicle displaying the appropriate placards?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes.", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "Is the vehicle overweight?(80k lbs)",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes.", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "If overweight, is there a premit?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes.", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "Are the tires in safe condition?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes." , "Yes", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "Are the brakes in safe condition?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes." , "Yes", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "Are all lights operational?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes." , "Yes", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "Are the belts/hoses in safe condition?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes." , "Yes", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "Are all mudflaps present?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes." , "Yes", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "Is the load/trailer properly secured?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes." , "Yes", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "May I have your registration and insurance please",
+				"answers": ["Im not giving you anything, I did nothing wrong.", "Yes sir. Just a moment.", ]
+			}
+		]
+		
+	},
+	{
+		"title": "Ped Queues",
+		"questions": [
+			{
+				"question": "Do I smell anything in the car?",
+				"answers": ["Smells like cigarettes", "Negative", "Smells like raw marijuana", "Negative", "Smells freshly cleaned", "Possible hint of alcohol."]
+			},
+			{
+				"question": "What is the drivers demeanor",
+				"answers": ["Inconvenienced", "Nervous", "Scared", "Hostile Scared", "Mad and argumentative", "Twitchy and Nervous", "Calm and Normal"]
+			},
+			{
+				"question": "Do I see anything in plain sight?",
+				"answers": ["Nothing in sight", "Starbucks, Cigarettes, Backpack", "Laptop, cellphone, ballcap", "empty beer cans in backseat", "Nothing in sight"]
+			}
+		]
+	}
+]
